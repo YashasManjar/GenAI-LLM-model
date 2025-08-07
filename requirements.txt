@@ -1,0 +1,8 @@
+langchain_community
+langchain_aws
+psycopg2-binary==2.9.9
+google.oauth2
+requests-oauthlib==2.0.0
+gspread oauth2client
+nameparser
+bs4
